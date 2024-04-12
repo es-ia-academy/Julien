@@ -32,7 +32,7 @@ grid-box#btwJsXv item-desc {
         <img id="ZloSJfS" src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMXx8Zm9vZHxlbnwwfDB8fHwxNzEyOTE1Njg0fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
       </item-head><item-body id="QlLRvsj"><item-title id="OSMtBrO" contenteditable="true">Tyropitakia</item-title><item-desc id="OSMtBr1">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item><grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);"><item-head id="SfvfOXO">
         <img id="oDgHrbL" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTI5MTU2ODR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="ghxAoci"><item-title id="edZgpeW" contenteditable="true">Title</item-title><item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item></grid-box>
+      </item-head><item-body id="ghxAoci"><item-title id="edZgpeW" contenteditable="true">Atherina</item-title><item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item></grid-box>
 </div></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

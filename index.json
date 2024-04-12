@@ -33,12 +33,12 @@ grid-box#btwJsXv item-body {
       </item-body>
     </grid-item>
     <grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);">
-      <div id="SfvfOXO">
+      <item-head id="SfvfOXO">
         <img id="oDgHrbL" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTI5MTU2ODR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
-      </div>
-      <div id="ghxAoci">
+      </item-head>
+      <item-body id="ghxAoci">
         <p id="edZgpeW">Tile</p>
-      </div>
+      </item-body>
     </grid-item>
   </grid-box>
 </div></div>

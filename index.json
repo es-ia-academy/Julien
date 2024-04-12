@@ -34,10 +34,10 @@ grid-box#btwJsXv grid-item {
 }
 
 item-head img {
-    object-fit: cover;
-    height: 200px;
-    width: 200px;
-    display: grid;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+  display: grid;
 }
 
 grid-box#btwJsXv item-body {

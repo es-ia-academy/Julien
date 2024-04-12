@@ -11,7 +11,7 @@ grid-box#btwJsXv {
   place-content: center start;
 }
 
-grid-item {
+grid-box#btwJsXv grid-item {
   box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
   border-radius: 10px;
   overflow: hidden;
@@ -19,7 +19,7 @@ grid-item {
 </style>
       <div id="pkWcadX" data-type="html"><div id="RkQMSmC">
   <div id="EkpvFgK"><bg-color id="LVdeOwN" data-type="bg-color" class="div-visible"></bg-color></div>
-  <grid-box id="btwJsXv" style="background-color: rgb(237, 237, 237);">
+  <grid-box id="btwJsXv" style="background-color: rgb(255, 0, 0);">
     <grid-item id="sJSdxer" style="background-color: rgb(255, 255, 255);">
       <div id="CUjuLNc">
         <img id="ZloSJfS" src="https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMXx8Zm9vZHxlbnwwfDB8fHwxNzEyOTE1Njg0fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">

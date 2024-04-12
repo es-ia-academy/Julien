@@ -1,5 +1,4 @@
-<section id="HrOcEAc" data-type="section"><style id="LUUdkWT" type="text/css" data-type="css">
-grid-box#btwJsXv {
+<section id="HrOcEAc" data-type="section"><style id="LUUdkWT" type="text/css" data-type="css">grid-box#btwJsXv {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
   grid-auto-rows: auto;
@@ -9,9 +8,10 @@ grid-box#btwJsXv {
   padding: 5%;
   place-content: center start;
 }
-grid-box#btwJsXv  grid-head {
-    grid-column: 1 / -1;
-    display: grid;
+
+grid-box#btwJsXv grid-head {
+  grid-column: 1 / -1;
+  display: grid;
 }
 
 grid-box#btwJsXv grid-item {

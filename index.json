@@ -16,6 +16,10 @@ grid-box#btwJsXv grid-item {
   border-radius: 10px;
   overflow: hidden;
 }
+
+grid-box#btwJsXv item-body {
+ padding:5%;
+}
 </style>
       <div id="pkWcadX" data-type="html"><div id="RkQMSmC">
   <div id="EkpvFgK"><bg-color id="LVdeOwN" data-type="bg-color" class="div-visible"></bg-color></div>

@@ -28,9 +28,9 @@ grid-box#btwJsXv item-desc {
   color: #929292;
 }
 </style><div id="pkWcadX" data-type="html"><div id="RkQMSmC">
-  <div id="EkpvFgK">
+  <grid-bg id="EkpvFgK">
     <bg-color id="LVdeOwN" data-type="bg-color" class="div-visible"></bg-color>
-  </div>
+  </grid-bg>
   <grid-box id="btwJsXv" style="background-color: rgb(255, 0, 0);">
     <grid-item id="sJSdxer" style="background-color: rgb(255, 255, 255);">
       <item-head id="CUjuLNc">

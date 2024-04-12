@@ -32,7 +32,7 @@ grid-box#btwJsXv item-body {
       </item-head>
       <item-body id="QlLRvsj">
         <item-title id="OSMtBrO">Title</item-title>
-        <p>You can now create and curate Playlists in your library!</p>
+        <item-desc id="OSMtBr1">You can now create and curate Playlists in your library!</item-desc>
       </item-body>
     </grid-item>
     <grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);">
@@ -41,6 +41,7 @@ grid-box#btwJsXv item-body {
       </item-head>
       <item-body id="ghxAoci">
         <item-title id="edZgpeW">Title</item-title>
+        <item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc>
       </item-body>
     </grid-item>
   </grid-box>

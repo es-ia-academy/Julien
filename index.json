@@ -16,6 +16,7 @@ grid-box#btwJsXv {
 grid-box#btwJsXv grid-head {
   grid-column: 1 / -1;
   display: grid;
+  margin-left: 15px;
 }
 
 grid-box#btwJsXv grid-title {
@@ -57,7 +58,7 @@ grid-box#btwJsXv item-desc {
   </grid-bg>
   <grid-box id="btwJsXv">
     <grid-head>
-      <grid-title id="123" contenteditable="true">Grid Title</grid-title>
+      <grid-title id="123" contenteditable="true">Entrées</grid-title>
       <grid-desc id="456" contenteditable="true">Grid description</grid-desc>
     </grid-head>
     <grid-item id="sJSdxer" style="background-color: rgb(255, 255, 255);">

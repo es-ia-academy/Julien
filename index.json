@@ -60,3 +60,76 @@ grid-box#btwJsXv item-desc {
   </grid-box></grid-container></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+  <section id="NMxoBbn" data-type="section">
+      <style id="uJchSKP" type="text/css" data-type="css">
+      /* Add or update CSS here... */
+      
+  grid-container#XnUrIOO {
+    position: relative;
+  }
+  grid-box#KKNdGvA{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+    place-content: center start;
+  }
+  bg-color#uKAAsgm{
+    background:#c7c7c7;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#KKNdGvA grid-item {
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    overflow: hidden;
+    background:white;
+  }
+  grid-head#AjQNiZw{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
+  }
+  
+      </style>
+      <div id="lPdAuvH" data-type="html">
+      <!--Add or update HTML here...-->
+      
+      <grid-container id="jhKpBnF">
+        <grid-bg id="Bicgsgu">
+          <bg-color id="uKAAsgm"></bg-color>
+        </grid-bg>
+        <grid-box id="KKNdGvA">
+          <grid-head id="AjQNiZw">
+            <grid-title id="snPxmQC" contenteditable="true">Entrées</grid-title>
+            <grid-desc id="cNeouLq" contenteditable="true">Grid description</grid-desc>
+          </grid-head>
+          <button id="addButton" class="servers-items" onclick="_addItem('KKNdGvA')">
+						<img id="server-addItem" src="../global/file/add.svg">
+					</button>
+          
+    <grid-item id="bixjiJv">
+      <item-head id="WjcAIjA">
+        <img id="FKamHQP" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy">
+      </item-head>
+      <item-body id="sClBqAw">
+        <item-title id="MGNrJHo" contenteditable="true">Tyropitakia</item-title>
+        <item-desc id="hlwdhEJ">You can now create and curate Playlists in your library!</item-desc>
+      </item-body>
+      <button onclick="deleteItem('bixjiJv')">Delete</button>
+    </grid-item>
+   
+  </grid-box>
+      </grid-container>
+    
+      </div>
+      <script id="vvzyklE" data-type="js">
+      // Add or update JS here...
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>

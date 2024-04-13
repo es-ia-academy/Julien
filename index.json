@@ -57,7 +57,7 @@ grid-box#btwJsXv item-desc {
       </item-head><item-body id="QlLRvsj"><item-title id="OSMtBrO" contenteditable="true">Tyropitakia</item-title><item-desc id="OSMtBr1">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item><grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);"><item-head id="SfvfOXO">
         <img id="oDgHrbL" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" data-type="image-fg" loading="lazy">
       </item-head><item-body id="ghxAoci"><item-title id="edZgpeW" contenteditable="true">Atherina</item-title><item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item>
-    <button onclick="duplicarElemento()">Duplicar elemento</button>
+    <button onclick="crearNuevoGridItem()">Crear nuevo grid-item</button>
   </grid-box></grid-container></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

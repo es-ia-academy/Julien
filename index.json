@@ -79,6 +79,7 @@ grid-box#btwJsXv item-desc {
         <item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc>
       </item-body>
     </grid-item>
+    <button onclick="duplicarElemento()">Duplicar elemento</button>
   </grid-box>
 </grid-container></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...

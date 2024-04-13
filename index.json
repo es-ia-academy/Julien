@@ -59,9 +59,50 @@ grid-box#btwJsXv item-desc {
       </item-head><item-body id="ghxAoci"><item-title id="edZgpeW" contenteditable="true">Atherina</item-title><item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item>
   </grid-box></grid-container></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...
-      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="ckdfQKy" data-type="section"><style id="uhNXshr" type="text/css" data-type="css">
+      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+  <section id="VycqYeT" data-type="section">
+      <style id="skLwnzQ" type="text/css" data-type="css">
       /* Add or update CSS here... */
       
-      </style><div id="oWFjBCA" data-type="html"><!--Add or update HTML here...--><grid-container id="sOpSVLB"><grid-bg id="BUVItvP"><bg-color id="lpbFFPQ"></bg-color></grid-bg><grid-box id="OjsFMHS"><grid-head><grid-title id="iNaKKHD" contenteditable="true">Entrées</grid-title><grid-desc id="IGTYtIK" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="lqgYbUb"><item-head id="HIriWkx"><img id="rvyirwO" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy"></item-head><item-body id="oBebcqg"><item-title id="ICEaCDP" contenteditable="true">Tyropitakia</item-title><item-desc id="TImxEBu">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item><button onclick="_addItem(OjsFMHS)">Crear nuevo grid-item</button></grid-box></grid-container></div><script id="PRCfsDG" data-type="js">
+      </style>
+      <div id="DTgfBQp" data-type="html">
+      <!--Add or update HTML here...-->
+      
+      <grid-container id="EZWkUoJ">
+        <grid-bg id="mTlEEsm">
+          <bg-color id="DCYrIba"></bg-color>
+        </grid-bg>
+        <grid-box id="LXQXlWZ">
+          <grid-head>
+            <grid-title id="iazVIVm" contenteditable="true">Entrées</grid-title>
+            <grid-desc id="RDvEeLZ" contenteditable="true">Grid description</grid-desc>
+          </grid-head>
+          <grid-item id="ZVUQgPK">
+            <item-head id="LOiEbaY">
+              <img id="fEtVyXz" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy">
+            </item-head>
+            <item-body id="lDURaQL">
+              <item-title id="vaSZlqX" contenteditable="true">Tyropitakia</item-title>
+              <item-desc id="iVNfQOd">You can now create and curate Playlists in your library!</item-desc>
+            </item-body>
+          </grid-item>
+          <button onclick="_addItem('LXQXlWZ')">Crear nuevo grid-item</button>
+          
+    <grid-item id="tABYSyd">
+      <item-head id="IVcUlDO">
+        <img id="lgwmWTP" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy">
+      </item-head>
+      <item-body id="gyFgMJa">
+        <item-title id="SqKZEaU" contenteditable="true">Tyropitakia</item-title>
+        <item-desc id="fCXDuQf">You can now create and curate Playlists in your library!</item-desc>
+      </item-body>
+    </grid-item>
+  </grid-box>
+      </grid-container>
+    
+      </div>
+      <script id="wZFiKWO" data-type="js">
       // Add or update JS here...
-      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>

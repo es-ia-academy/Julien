@@ -71,6 +71,96 @@
           <item-desc id="CObDoKb">You can now create and curate Playlists in your library!</item-desc>
         </item-body>
         <button class="remove-item" onclick="deleteItem('lqnlclb')">X</button>
+      </grid-item><grid-item id="PtHrzkj">
+        <item-head id="YYsOsIY">
+          <img id="TdxmDrH" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="oHJzJeD">
+          <item-title id="lYjOgbu" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="bUdOuZp">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('PtHrzkj')">X</button>
+      </grid-item><grid-item id="BVawjMs">
+        <item-head id="iFxhFNA">
+          <img id="kWlciTA" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="PNIUeLX">
+          <item-title id="yTcOsZS" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="zOBzzPi">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('BVawjMs')">X</button>
+      </grid-item><grid-item id="tkVNeDO">
+        <item-head id="ZpLNNhK">
+          <img id="JvmzmjJ" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="ktwtbut">
+          <item-title id="bTBigiG" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="eaHjSQb">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('tkVNeDO')">X</button>
+      </grid-item><grid-item id="JflWisi">
+        <item-head id="ZUJpVtw">
+          <img id="HWSqaYK" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="xgNLLCe">
+          <item-title id="sVCPEGx" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="IPJWjYM">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('JflWisi')">X</button>
+      </grid-item><grid-item id="BrqoDGr">
+        <item-head id="JYqSysZ">
+          <img id="GBClhEo" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="wAZmhDZ">
+          <item-title id="VFANYAb" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="RfhMquS">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('BrqoDGr')">X</button>
+      </grid-item><grid-item id="XiRScHj">
+        <item-head id="YJAAJeb">
+          <img id="JvjEWjB" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="MjWMsMX">
+          <item-title id="DwONuvx" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="cxYNfEk">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('XiRScHj')">X</button>
+      </grid-item><grid-item id="yDEwhZq">
+        <item-head id="gQvvgMi">
+          <img id="lnlXiBZ" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="tqpnUev">
+          <item-title id="FUUzFGc" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="mofGKph">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('yDEwhZq')">X</button>
+      </grid-item><grid-item id="fbKVxxK">
+        <item-head id="VfavAyD">
+          <img id="CpDAhNv" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="pacNTgS">
+          <item-title id="uqbZqtF" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="caoGKqG">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('fbKVxxK')">X</button>
+      </grid-item><grid-item id="cXIxzEy">
+        <item-head id="tCqBXke">
+          <img id="SipcYSI" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="TeVkHZH">
+          <item-title id="BqxDGKX" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="dojZvgF">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('cXIxzEy')">X</button>
+      </grid-item><grid-item id="CJKPHdk">
+        <item-head id="AGldEdW">
+          <img id="dZromZh" src="https://cdn.icon-icons.com/icons2/2483/PNG/512/empty_data_icon_149938.png" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="Yeyqsvb">
+          <item-title id="eJhbQLZ" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="xybwoeO">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('CJKPHdk')">X</button>
       </grid-item><button id="CwZnYJC" class="servers-items" onclick="_addItem('jHcqxyx', 'CwZnYJC')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="IzrggqC" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

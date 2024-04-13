@@ -52,10 +52,34 @@ grid-box#btwJsXv item-desc {
   font-size: 12px;
   color: #929292;
 }
-</style><div id="pkWcadX" data-type="html"><grid-container><grid-bg id="EkpvFgK"><bg-color id="LVdeOwN" data-type="bg-color" class="div-visible" style="background-color: rgb(199, 199, 199); padding: 5%; position: absolute; width: 100%; height: 100%; z-index: -1;"></bg-color></grid-bg><grid-box id="btwJsXv"><grid-head><grid-title id="123" contenteditable="true">Entrées</grid-title><grid-desc id="456" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="sJSdxer" style="background-color: rgb(255, 255, 255);"><item-head id="CUjuLNc">
+</style><div id="pkWcadX" data-type="html"><grid-container>
+  <grid-bg id="EkpvFgK">
+    <bg-color id="LVdeOwN" data-type="bg-color" class="div-visible" style="background-color: rgb(199, 199, 199); padding: 5%; position: absolute; width: 100%; height: 100%; z-index: -1;"></bg-color>
+  </grid-bg>
+  <grid-box id="btwJsXv">
+    <grid-head>
+      <grid-title id="123" contenteditable="true">Entrées</grid-title>
+      <grid-desc id="456" contenteditable="true">Grid description</grid-desc>
+    </grid-head>
+    <grid-item id="sJSdxer" style="background-color: rgb(255, 255, 255);">
+      <item-head id="CUjuLNc">
         <img id="ZloSJfS" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="QlLRvsj"><item-title id="OSMtBrO" contenteditable="true">Tyropitakia</item-title><item-desc id="OSMtBr1">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item><grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);"><item-head id="SfvfOXO">
+      </item-head>
+      <item-body id="QlLRvsj">
+        <item-title id="OSMtBrO" contenteditable="true">Tyropitakia</item-title>
+        <item-desc id="OSMtBr1">You can now create and curate Playlists in your library!</item-desc>
+      </item-body>
+    </grid-item>
+    <grid-item id="SdmKGVX" style="background-color: rgb(255, 255, 255);">
+      <item-head id="SfvfOXO">
         <img id="oDgHrbL" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="ghxAoci"><item-title id="edZgpeW" contenteditable="true">Atherina</item-title><item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item></grid-box></grid-container></div><script id="lykIJMM" data-type="js">
+      </item-head>
+      <item-body id="ghxAoci">
+        <item-title id="edZgpeW" contenteditable="true">Atherina</item-title>
+        <item-desc id="edZgpe2">You can now create and curate Playlists in your library!</item-desc>
+      </item-body>
+    </grid-item>
+  </grid-box>
+</grid-container></div><script id="lykIJMM" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

@@ -1,5 +1,4 @@
-<section id="teDyqlt" data-type="section">
-      <style id="LsEMHiz" type="text/css" data-type="css">
+<section id="teDyqlt" data-type="section"><style id="LsEMHiz" type="text/css" data-type="css">
       /* Add or update CSS here... */
       
   grid-container#zlnrOnx {
@@ -54,36 +53,24 @@
     margin-left: 15px;
   }
   
-      </style>
-      <div id="EGzmytt" data-type="html">
-      <!--Add or update HTML here...-->
-      
-      <grid-container id="nObbFxe">
-        <grid-bg id="xEVdUAO">
-          <bg-color id="kTgnXOM"></bg-color>
-        </grid-bg>
-        <grid-box id="jHcqxyx">
-          <grid-head id="cqCqQaq">
-            <grid-title id="JPCqXKv" contenteditable="true">Entrées</grid-title>
-            <grid-desc id="BwbJTGP" contenteditable="true">Grid description</grid-desc>
-          </grid-head>
-          <grid-item id="VbfjzWb">
-        <item-head id="VutzSju">
-          <img id="VWNCBmG" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy">
+      </style><div id="EGzmytt" data-type="html"><!--Add or update HTML here...--><grid-container id="nObbFxe"><grid-bg id="xEVdUAO"><bg-color id="kTgnXOM"></bg-color></grid-bg><grid-box id="jHcqxyx"><grid-head id="cqCqQaq"><grid-title id="JPCqXKv" contenteditable="true">Entrées</grid-title><grid-desc id="BwbJTGP" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="VbfjzWb"><item-head id="VutzSju"><img id="VWNCBmG" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" data-type="image-fg" loading="lazy"></item-head><item-body id="cRhdRSq"><item-title id="zjLgdzv" contenteditable="true">Tyropitakia</item-title><item-desc id="vaavsDc">You can now create and curate Playlists in your library!</item-desc></item-body></grid-item><grid-item id="VyTepwn">
+        <item-head id="sFjhUFF">
+          <img id="CoplgCI" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="cRhdRSq">
-          <item-title id="zjLgdzv" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="vaavsDc">You can now create and curate Playlists in your library!</item-desc>
+        <item-body id="HGBdZMV">
+          <item-title id="cimqNLB" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="FfgietV">You can now create and curate Playlists in your library!</item-desc>
         </item-body>
-      </grid-item><button id="CwZnYJC" class="servers-items" onclick="_addItem('jHcqxyx', 'CwZnYJC')">
-						<img id="server-addItem" src="../global/file/add.svg">
-					</button>
-        </grid-box>
-      </grid-container>
-    
-      </div>
-      <script id="IzrggqC" data-type="js">
+        <button class="remove-item" onclick="deleteItem('VyTepwn')">X</button>
+      </grid-item><grid-item id="lqnlclb">
+        <item-head id="BIeIGef">
+          <img id="PpFSETl" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="cFvVUPD">
+          <item-title id="DcwfqAV" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="CObDoKb">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="remove-item" onclick="deleteItem('lqnlclb')">X</button>
+      </grid-item><button id="CwZnYJC" class="servers-items" onclick="_addItem('jHcqxyx', 'CwZnYJC')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="IzrggqC" data-type="js">
       // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+      </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

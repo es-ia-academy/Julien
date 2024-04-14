@@ -5,11 +5,13 @@ color:inherit;
 }
 
 body {
-font-family: 'Poppins', sans-serif;
-overflow-x: hidden;
-width: 100%;
-background-color: #263238;
-}
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background-color: #263238;
+ }
 
 #grid {
 display: grid;

@@ -21,6 +21,7 @@ grid-page {
   max-width:1500px;
 }
 section {
+position:relative;
 display:grid;
 border-radius: 10px;
 overflow: hidden;

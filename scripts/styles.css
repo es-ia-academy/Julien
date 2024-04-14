@@ -13,12 +13,12 @@ body {
   background-color: #263238;
  }
 
-.grid-page {
-display: grid;
-position:relative;
-gap:35px;
-margin:0 auto;
-max-width:1500px;
+grid-page {
+  display: grid;
+  position:relative;
+  gap:35px;
+  margin:0 auto;
+  max-width:1500px;
 }
 section {
 display:grid;

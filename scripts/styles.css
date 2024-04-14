@@ -18,6 +18,11 @@ gap:35px;
 margin:0 auto;
 max-width:1500px;
 }
+section {
+display:grid;
+    border-radius: 10px;
+    overflow: hidden;
+}
 
 
 @media screen and (max-width: 640px) {

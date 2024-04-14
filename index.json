@@ -76,76 +76,81 @@
     place-content: space-around;
   }
 }
-</style><script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="pmaGodc" data-type="section"><style id="OwcMIRg" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-  grid-container#QPaZPuX {
-    position: relative;
-  }
-  grid-box#HACBqKf{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    place-content: center start;
-  }
-  bg-color#kEiCXto{
-    background:#c7c7c7;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-  grid-box#HACBqKf grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:white;
-  }
-  grid-box#HACBqKf item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
+</style><script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="pmaGodc" data-type="section"><style id="OwcMIRg" type="text/css" data-type="css">/* Add or update CSS here... */
+grid-container#QPaZPuX {
+  position: relative;
+}
 
-  grid-box#HACBqKf grid-title {
-    font-size:1.5rem;
-  }
+grid-box#HACBqKf {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-auto-rows: auto;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  place-content: center start;
+}
 
-  grid-box#HACBqKf grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+bg-color#kEiCXto {
+  background: #c7c7c7;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
 
-  grid-box#HACBqKf item-desc {
+grid-box#HACBqKf grid-item {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: white;
+}
+
+grid-box#HACBqKf item-body {
+  padding: 15px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#HACBqKf grid-title {
+  font-size: 2rem;
+  color:white;
+}
+
+grid-box#HACBqKf grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#HACBqKf item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-head#NHDwWXX {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#HACBqKf img {
+  background-color: #f1f1f1;
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 640px) {
+  grid-box#HACBqKf {
     display: grid;
-    font-size: 12px;
-    color: #929292;
+    gap: 5px;
+    padding: 5px;
+    grid-template-columns: 1fr 1fr;
   }
-  grid-head#NHDwWXX{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#HACBqKf img{
-    background-color: #f1f1f1;
-    height:auto;
-    width:100%;
-    object-fit:cover;
-  }
-  @media screen and (max-width: 640px){
-    grid-box#HACBqKf {
-        display: grid;
-        gap:5px;
-        padding:5px;
-        grid-template-columns: 1fr 1fr;
-    }
-  }
-  
-      </style><div id="IwiZOPs" data-type="html"><!--Add or update HTML here...--><grid-container id="ddEigiy"><grid-bg id="ZDwdMof"><bg-color id="kEiCXto" style="background-color: rgb(23, 37, 43);"></bg-color></grid-bg><grid-box id="HACBqKf"><grid-head id="NHDwWXX"><grid-title id="jBcATRB" contenteditable="true">Entrées</grid-title><grid-desc id="JKvMCxU" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="HpKjjFm"><item-head id="jYiSTxr"><img id="jxqeLfe" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="sZUKGNU"><item-title id="vmmpQYm" contenteditable="true">Tyropitakia</item-title><item-desc id="kUufviW">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('HpKjjFm')">X</button></grid-item><grid-item id="PcoWAJe"><item-head id="BrniBjx"><img id="NoGacWt" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="TsCjkWk"><item-title id="dTZPWRe" contenteditable="true">Tyropitakia</item-title><item-desc id="XqpWLgG">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('PcoWAJe')">X</button></grid-item><grid-item id="PXUfypc"><item-head id="gJUvGmH"><img id="lByNdFA" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="zOztusE"><item-title id="JbmWFkg" contenteditable="true">Tyropitakia</item-title><item-desc id="hNFXcKF">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('PXUfypc')">X</button></grid-item><grid-item id="ysUwvUj"><item-head id="MbwmYrk"><img id="CpplSyZ" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="WBZmpSy"><item-title id="HhCEzJB" contenteditable="true">Tyropitakia</item-title><item-desc id="xfZXQgJ">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('ysUwvUj')">X</button></grid-item><button id="AxwYnUc" class="no-export" style="background:#f1f1f1;" onclick="_addItem('HACBqKf', 'AxwYnUc')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="rnKDtzJ" data-type="js">
+}
+</style><div id="IwiZOPs" data-type="html"><!--Add or update HTML here...--><grid-container id="ddEigiy"><grid-bg id="ZDwdMof"><bg-color id="kEiCXto" style="background-color: rgb(23, 37, 43);"></bg-color></grid-bg><grid-box id="HACBqKf"><grid-head id="NHDwWXX"><grid-title id="jBcATRB" contenteditable="true">Entrées</grid-title><grid-desc id="JKvMCxU" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="HpKjjFm"><item-head id="jYiSTxr"><img id="jxqeLfe" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="sZUKGNU"><item-title id="vmmpQYm" contenteditable="true">Tyropitakia</item-title><item-desc id="kUufviW">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('HpKjjFm')">X</button></grid-item><grid-item id="PcoWAJe"><item-head id="BrniBjx"><img id="NoGacWt" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="TsCjkWk"><item-title id="dTZPWRe" contenteditable="true">Tyropitakia</item-title><item-desc id="XqpWLgG">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('PcoWAJe')">X</button></grid-item><grid-item id="PXUfypc"><item-head id="gJUvGmH"><img id="lByNdFA" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="zOztusE"><item-title id="JbmWFkg" contenteditable="true">Tyropitakia</item-title><item-desc id="hNFXcKF">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('PXUfypc')">X</button></grid-item><grid-item id="ysUwvUj"><item-head id="MbwmYrk"><img id="CpplSyZ" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="WBZmpSy"><item-title id="HhCEzJB" contenteditable="true">Tyropitakia</item-title><item-desc id="xfZXQgJ">You can now create and curate Playlists in your library!</item-desc></item-body><button class="no-export" onclick="deleteItem('ysUwvUj')">X</button></grid-item><button id="AxwYnUc" class="no-export" style="background:#f1f1f1;" onclick="_addItem('HACBqKf', 'AxwYnUc')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="rnKDtzJ" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section><section id="pFwommc" data-type="section"><style id="xPGffuR" type="text/css" data-type="css">
       /* Add or update CSS here... */

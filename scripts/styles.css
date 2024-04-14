@@ -13,7 +13,7 @@ body {
   background-color: #263238;
  }
 
-#grid {
+.grid-page {
 display: grid;
 position:relative;
 gap:35px;

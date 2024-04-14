@@ -77,14 +77,14 @@
   }
 }
 </style><div id="yucnBji" data-type="raw-html"><div id="mIEHGfu"><img id="mmPxbGI" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy"></div><div id="auPkhXQ"><a id="kbHjYts" contenteditable="true" href="https://www">HOME</a><a id="kWzugVg" contenteditable="true" href="https://www">ABOUT</a><a id="fuwOnRq" contenteditable="true" href="https://www">SERVICES</a><a id="MtOfcGV" contenteditable="true" href="https://www">CONTACT</a><a id="uqzUqGK" contenteditable="true" href="https://www">BLOG</a></div><div id="XwKjXYL"><button id="RaQILpx">MENU</button></div></div><script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
-  <section id="eCiuYtJ" data-type="section">
-      <style id="pUdBXZF" type="text/css" data-type="css">
+  <section id="pmaGodc" data-type="section">
+      <style id="OwcMIRg" type="text/css" data-type="css">
       /* Add or update CSS here... */
       
-  grid-container#ojwNSgo {
+  grid-container#QPaZPuX {
     position: relative;
   }
-  grid-box#jPRWDnU{
+  grid-box#HACBqKf{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
     grid-auto-rows: auto;
@@ -94,52 +94,52 @@
     padding: 20px;
     place-content: center start;
   }
-  bg-color#DIhjSUW{
+  bg-color#kEiCXto{
     background:#c7c7c7;
     position: absolute;
     width: 100%;
     height: 100%;
     z-index: -1;
   }
-  grid-box#jPRWDnU grid-item {
+  grid-box#HACBqKf grid-item {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
     border-radius: 10px;
     overflow: hidden;
     background:white;
   }
-  grid-box#jPRWDnU item-body {
+  grid-box#HACBqKf item-body {
     padding: 15px;
     display: grid;
     gap: 10px;
   }
 
-  grid-box#jPRWDnU grid-title {
+  grid-box#HACBqKf grid-title {
     font-size:1.5rem;
   }
 
-  grid-box#jPRWDnU grid-desc {
+  grid-box#HACBqKf grid-desc {
     font-size: 12px;
     color: #929292;
   }
 
-  grid-box#jPRWDnU item-desc {
+  grid-box#HACBqKf item-desc {
     display: grid;
     font-size: 12px;
     color: #929292;
   }
-  grid-head#bZdafOI{
+  grid-head#NHDwWXX{
     grid-column: 1 / -1;
     display: grid;
     margin-left: 15px;
   }
-  grid-box#jPRWDnU img{
+  grid-box#HACBqKf img{
     background-color: #f1f1f1;
     height:auto;
     width:100%;
     object-fit:cover;
   }
   @media screen and (max-width: 640px){
-    grid-box#jPRWDnU {
+    grid-box#HACBqKf {
         display: grid;
         gap:5px;
         padding:5px;
@@ -148,194 +148,53 @@
   }
   
       </style>
-      <div id="dmHlRhk" data-type="html">
+      <div id="IwiZOPs" data-type="html">
       <!--Add or update HTML here...-->
       
-      <grid-container id="AERgHsv">
-        <grid-bg id="DhBxPHy">
-          <bg-color id="DIhjSUW"></bg-color>
+      <grid-container id="ddEigiy">
+        <grid-bg id="ZDwdMof">
+          <bg-color id="kEiCXto"></bg-color>
         </grid-bg>
-        <grid-box id="jPRWDnU">
-          <grid-head id="bZdafOI">
-            <grid-title id="AnbBYKi" contenteditable="true">Entrées</grid-title>
-            <grid-desc id="yMjRIzu" contenteditable="true">Grid description</grid-desc>
+        <grid-box id="HACBqKf">
+          <grid-head id="NHDwWXX">
+            <grid-title id="jBcATRB" contenteditable="true">Entrées</grid-title>
+            <grid-desc id="JKvMCxU" contenteditable="true">Grid description</grid-desc>
           </grid-head>
-          <grid-item id="DCYAPob">
-        <item-head id="HKiWXpq">
-          <img id="tMRfrjc" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <grid-item id="HpKjjFm">
+        <item-head id="jYiSTxr">
+          <img id="jxqeLfe" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="OWzoUAn">
-          <item-title id="ASAvRdm" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="lmgIUXa">You can now create and curate Playlists in your library!</item-desc>
+        <item-body id="sZUKGNU">
+          <item-title id="vmmpQYm" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="kUufviW">You can now create and curate Playlists in your library!</item-desc>
         </item-body>
-        <button class="no-export" onclick="deleteItem('DCYAPob')">X</button>
-      </grid-item><grid-item id="mTZXViW">
-        <item-head id="hLJmVlr">
-          <img id="eXGXFEr" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export" onclick="deleteItem('HpKjjFm')">X</button>
+      </grid-item><grid-item id="PcoWAJe">
+        <item-head id="BrniBjx">
+          <img id="NoGacWt" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="LwSMPwi">
-          <item-title id="PwtXTYI" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="lJhEPfx">You can now create and curate Playlists in your library!</item-desc>
+        <item-body id="TsCjkWk">
+          <item-title id="dTZPWRe" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="XqpWLgG">You can now create and curate Playlists in your library!</item-desc>
         </item-body>
-        <button class="no-export" onclick="deleteItem('mTZXViW')">X</button>
-      </grid-item><grid-item id="YCQDfIz">
-        <item-head id="FUBXizW">
-          <img id="sUDMgXw" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export" onclick="deleteItem('PcoWAJe')">X</button>
+      </grid-item><grid-item id="PXUfypc">
+        <item-head id="gJUvGmH">
+          <img id="lByNdFA" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="wTcuFdl">
-          <item-title id="HuSZHGM" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="XbHQghe">You can now create and curate Playlists in your library!</item-desc>
+        <item-body id="zOztusE">
+          <item-title id="JbmWFkg" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="hNFXcKF">You can now create and curate Playlists in your library!</item-desc>
         </item-body>
-        <button class="no-export" onclick="deleteItem('YCQDfIz')">X</button>
-      </grid-item><grid-item id="BiSLflI">
-        <item-head id="KDtvMNf">
-          <img id="DsxUvkX" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="DBnMBaT">
-          <item-title id="zvzLWCX" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="nyrhBjp">You can now create and curate Playlists in your library!</item-desc>
-        </item-body>
-        <button class="no-export" onclick="deleteItem('BiSLflI')">X</button>
-      </grid-item><button id="HeNuFGZ" class="no-export" style="background:#f1f1f1;" onclick="_addItem('jPRWDnU', 'HeNuFGZ')">
+        <button class="no-export" onclick="deleteItem('PXUfypc')">X</button>
+      </grid-item><button id="AxwYnUc" class="no-export" style="background:#f1f1f1;" onclick="_addItem('HACBqKf', 'AxwYnUc')">
 						<img id="server-addItem" src="../global/file/add.svg">
 					</button>
         </grid-box>
       </grid-container>
     
       </div>
-      <script id="ykCJUwg" data-type="js">
-      // Add or update JS here...
-      </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
-  
-  <section id="LIogTzs" data-type="section">
-      <style id="HQXtlEB" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-  grid-container#IHNVKhn {
-    position: relative;
-  }
-  grid-box#IsLkdCj{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    place-content: center start;
-  }
-  bg-color#GEMiZpl{
-    background:#c7c7c7;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-  grid-box#IsLkdCj grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:white;
-  }
-  grid-box#IsLkdCj item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
-
-  grid-box#IsLkdCj grid-title {
-    font-size:1.5rem;
-  }
-
-  grid-box#IsLkdCj grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
-
-  grid-box#IsLkdCj item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-  }
-  grid-head#oQJxmwk{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#IsLkdCj img{
-    background-color: #f1f1f1;
-    height:auto;
-    width:100%;
-    object-fit:cover;
-  }
-  @media screen and (max-width: 640px){
-    grid-box#IsLkdCj {
-        display: grid;
-        gap:5px;
-        padding:5px;
-        grid-template-columns: 1fr 1fr;
-    }
-  }
-  
-      </style>
-      <div id="VlgyOGo" data-type="html">
-      <!--Add or update HTML here...-->
-      
-      <grid-container id="OdfYhbX">
-        <grid-bg id="ODUDUUh">
-          <bg-color id="GEMiZpl"></bg-color>
-        </grid-bg>
-        <grid-box id="IsLkdCj">
-          <grid-head id="oQJxmwk">
-            <grid-title id="ISbUxYK" contenteditable="true">Entrées</grid-title>
-            <grid-desc id="qqsVmFU" contenteditable="true">Grid description</grid-desc>
-          </grid-head>
-          <grid-item id="jljENqh">
-        <item-head id="aXGrDFj">
-          <img id="osKsGcU" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="iBrnXwE">
-          <item-title id="NwOsoWo" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="EvBFqgH">You can now create and curate Playlists in your library!</item-desc>
-        </item-body>
-        <button class="no-export" onclick="deleteItem('jljENqh')">X</button>
-      </grid-item><grid-item id="zTfNtZP">
-        <item-head id="uCxyGzP">
-          <img id="tLDjDea" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="OBbqAjh">
-          <item-title id="XEpIkSP" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="nRmQozl">You can now create and curate Playlists in your library!</item-desc>
-        </item-body>
-        <button class="no-export" onclick="deleteItem('zTfNtZP')">X</button>
-      </grid-item><grid-item id="XLKPffJ">
-        <item-head id="HbHvrMN">
-          <img id="EbwdIdJ" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="XzMaZxY">
-          <item-title id="FdEgEAV" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="tHSCpFc">You can now create and curate Playlists in your library!</item-desc>
-        </item-body>
-        <button class="no-export" onclick="deleteItem('XLKPffJ')">X</button>
-      </grid-item><grid-item id="CQlSonK">
-        <item-head id="bzkqNxw">
-          <img id="kmUKPtp" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="jspPPFe">
-          <item-title id="IlgQCUs" contenteditable="true">Tyropitakia</item-title>
-          <item-desc id="yEsYSeR">You can now create and curate Playlists in your library!</item-desc>
-        </item-body>
-        <button class="no-export" onclick="deleteItem('CQlSonK')">X</button>
-      </grid-item><button id="sFlQZMP" class="no-export" style="background:#f1f1f1;" onclick="_addItem('IsLkdCj', 'sFlQZMP')">
-						<img id="server-addItem" src="../global/file/add.svg">
-					</button>
-        </grid-box>
-      </grid-container>
-    
-      </div>
-      <script id="qsYfkBW" data-type="js">
+      <script id="rnKDtzJ" data-type="js">
       // Add or update JS here...
       </script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>

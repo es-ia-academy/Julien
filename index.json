@@ -125,7 +125,7 @@ grid-box#HACBqKf grid-desc {
 
 grid-box#HACBqKf item-title {
   display: grid;
-  font-size: 12px;
+  font-size: 1rem;
   color:white;
 }
 

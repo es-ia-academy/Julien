@@ -20,8 +20,8 @@ max-width:1500px;
 }
 section {
 display:grid;
-    border-radius: 10px;
-    overflow: hidden;
+border-radius: 10px;
+overflow: hidden;
 }
 
 

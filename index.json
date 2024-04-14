@@ -87,38 +87,6 @@
         <img id="ygkJuOP" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
       </item-head><item-body id="RHIVUgP"><item-title id="cAvzesN" contenteditable="true">Tyropitakia</item-title><item-desc id="SHnXqjl">You can now create and curate Playlists in your library!</item-desc></item-body>
       <button class="remove-item" onclick="deleteItem('VoURfhE')">X</button>
-    </grid-item><grid-item id="virzvKs"><item-head id="uXRvelr">
-        <img id="zgbKYJY" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="QiyWppV"><item-title id="gCpivEA" contenteditable="true">Tyropitakia</item-title><item-desc id="IIiICEr">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('virzvKs')">X</button>
-    </grid-item><grid-item id="mezpqLS"><item-head id="NhRpjew">
-        <img id="xdlHiuo" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="iYeWOLd"><item-title id="cNpYnjp" contenteditable="true">Tyropitakia</item-title><item-desc id="BBxOCei">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('mezpqLS')">X</button>
-    </grid-item><grid-item id="GgqCoUY"><item-head id="ovuExdI">
-        <img id="ZGJhaZz" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="RVoLsHi"><item-title id="sFbPTAH" contenteditable="true">Tyropitakia</item-title><item-desc id="ctkJltZ">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('GgqCoUY')">X</button>
-    </grid-item><grid-item id="PCvwUpX"><item-head id="OmZmOgq">
-        <img id="TNlXGBJ" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="ILttnVC"><item-title id="XhUOiiD" contenteditable="true">Tyropitakia</item-title><item-desc id="CWjvwPg">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('PCvwUpX')">X</button>
-    </grid-item><grid-item id="aPUbzek"><item-head id="nQMgFJk">
-        <img id="glsbBRr" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="Hqzalyz"><item-title id="lECKakl" contenteditable="true">Tyropitakia</item-title><item-desc id="MDWXlZg">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('aPUbzek')">X</button>
-    </grid-item><grid-item id="UHLWpXy"><item-head id="rYYQVGn">
-        <img id="JQunUwu" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="tAMDaLL"><item-title id="pxoNKQO" contenteditable="true">Tyropitakia</item-title><item-desc id="cjeksJV">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('UHLWpXy')">X</button>
-    </grid-item><grid-item id="OHofwMl"><item-head id="scYzbDy">
-        <img id="oGsYHCZ" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="VdLwCOE"><item-title id="FEypilu" contenteditable="true">Tyropitakia</item-title><item-desc id="KjTIVhM">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('OHofwMl')">X</button>
-    </grid-item><grid-item id="NrZlzuW"><item-head id="nZhpBzy">
-        <img id="kZlJdDL" src="../global/file/empty.svg" height:200="" width:200="" data-type="image-fg" loading="lazy">
-      </item-head><item-body id="efvicFv"><item-title id="kQeudzM" contenteditable="true">Tyropitakia</item-title><item-desc id="SuCBHQI">You can now create and curate Playlists in your library!</item-desc></item-body>
-      <button class="remove-item" onclick="deleteItem('NrZlzuW')">X</button>
     </grid-item>
     <button id="JeUjstH" style="background:#f1f1f1;" onclick="_addItem('SptFfBA', 'JeUjstH')">
       <img id="server-addItem" src="../global/file/add.svg">

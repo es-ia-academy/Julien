@@ -11,30 +11,14 @@ width: 100%;
 background-color: #263238;
 }
 
-.grid-page {
+#grid {
 display: grid;
 position:relative;
-width:100vw;
-max-width:1500px;
-padding: 10px 50px;
 gap:35px;
-margin:auto;
+margin:0 auto;
+max-width:1500px;
 }
 
-.grid-section {
-display:grid;
-gap:0px;
-}
-
-.grid-item {
-border-radius:0px;
-overflow: hidden;
-}
-
-.grid-text {
-padding:15%;
-gap:15px;
-}
 
 @media screen and (max-width: 640px) {
 .grid-page {

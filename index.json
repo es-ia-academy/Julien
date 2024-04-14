@@ -45,7 +45,7 @@ grid-box#PLBFBJt grid-item {
 }
 
 grid-box#PLBFBJt item-body {
-  padding: 20px;
+  padding: 10px;
   display: grid;
   gap: 10px;
 }

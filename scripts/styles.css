@@ -22,12 +22,12 @@ section {
 display:grid;
 border-radius: 10px;
 overflow: hidden;
+margin: 0 20px;
 }
 
 
 @media screen and (max-width: 640px) {
-.grid-page {
-padding: 0px;
-gap:0px;
-}
+	section{
+    	margin: 0 10px;
+    }
 }

@@ -191,3 +191,135 @@ grid-box#PLBFBJt img {
 </style><div id="cIzwWcO" data-type="html"><!--Add or update HTML here...--><grid-container id="nLxbHfB"><grid-bg id="UORABuz"><bg-color id="OURiXoX"></bg-color></grid-bg><grid-box id="PLBFBJt"><grid-head id="onyeVzh"><grid-title id="Ptoypcy" contenteditable="true">Food</grid-title><grid-desc id="MAcnprO" contenteditable="true">Grid description</grid-desc></grid-head><grid-item id="DIqFTwF"><item-head id="DNSBUdR"><img id="OHpbEfz" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMzAzMzI0OXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="lTvKakn"><item-title id="lmwluAp" contenteditable="true">Tyropitakia</item-title><item-desc id="RKdjIeS">You can now create and curate Playlists in your library!</item-desc></item-body><button class="remove-item" onclick="deleteItem('DIqFTwF')">X</button></grid-item><grid-item id="ViWUuDp"><item-head id="mCUWgHN"><img id="vWcrUjz" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMzAzMzI0OXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="FUlILsQ"><item-title id="VZUjmaW" contenteditable="true">Tyropitakia</item-title><item-desc id="RlDRkgc">You can now create and curate Playlists in your library!</item-desc></item-body><button class="remove-item" onclick="deleteItem('ViWUuDp')">X</button></grid-item><grid-item id="MnpzZgh"><item-head id="EBeWySy"><img id="wlKwIrd" src="https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMzAzMzE2NXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="WzvkVCn"><item-title id="INgRgMK" contenteditable="true">Tyropitakia</item-title><item-desc id="CfdIYyX">You can now create and curate Playlists in your library!</item-desc></item-body><button class="remove-item" onclick="deleteItem('MnpzZgh')">X</button></grid-item><grid-item id="QRGefuo"><item-head id="Cztxsgx"><img id="vNGOfRc" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEzMDMzMTY1fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="CMbkUPo"><item-title id="vePEQUe" contenteditable="true">Tyropitakia</item-title><item-desc id="WmVjdjN">You can now create and curate Playlists in your library!</item-desc></item-body><button class="remove-item" onclick="deleteItem('QRGefuo')">X</button></grid-item><grid-item id="YQBtbNb"><item-head id="wnmFLnR"><img id="AInbAhQ" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMzAzMzE2NXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="Itnvsnv"><item-title id="nEXCJig" contenteditable="true">Tyropitakia</item-title><item-desc id="ZDLsOCa">You can now create and curate Playlists in your library!</item-desc></item-body><button class="remove-item" onclick="deleteItem('YQBtbNb')">X</button></grid-item><button id="qBRCEzw" style="background:#f1f1f1;" onclick="_addItem('PLBFBJt', 'qBRCEzw')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="SvWnsNE" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+  <section id="TXDDRYY" data-type="section">
+      <style id="HQLzIwZ" type="text/css" data-type="css">
+      /* Add or update CSS here... */
+      
+  grid-container#IjVAOZz {
+    position: relative;
+  }
+  grid-box#VgxqtoL{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    place-content: center start;
+  }
+  bg-color#EkwIaoR{
+    background:#c7c7c7;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#VgxqtoL grid-item {
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    overflow: hidden;
+    background:white;
+  }
+  grid-box#VgxqtoL item-body {
+    padding: 15px;
+    display: grid;
+    gap: 10px;
+  }
+
+  grid-box#VgxqtoL grid-title {
+    font-size:1.5rem;
+  }
+
+  grid-box#VgxqtoL grid-desc {
+    font-size: 12px;
+    color: #929292;
+  }
+
+  grid-box#VgxqtoL item-desc {
+    display: grid;
+    font-size: 12px;
+    color: #929292;
+  }
+  grid-head#gndYypI{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
+  }
+  grid-box#VgxqtoL img{
+    background-color: #f1f1f1;
+    height:200px;
+    width:200px;
+    object-fit:cover;
+  }
+  
+      </style>
+      <div id="RDabhFb" data-type="html">
+      <!--Add or update HTML here...-->
+      
+      <grid-container id="FLZZJhA">
+        <grid-bg id="eURYtuD">
+          <bg-color id="EkwIaoR"></bg-color>
+        </grid-bg>
+        <grid-box id="VgxqtoL">
+          <grid-head id="gndYypI">
+            <grid-title id="wyOPJTw" contenteditable="true">Entrées</grid-title>
+            <grid-desc id="acyRpdi" contenteditable="true">Grid description</grid-desc>
+          </grid-head>
+          <grid-item id="ojeUvKq">
+        <item-head id="XQpuwTC">
+          <img id="lsgUNNs" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="iWnWyHk">
+          <item-title id="EuGwziY" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="Zcqtuyf">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="no-export" onclick="deleteItem('ojeUvKq')">X</button>
+      </grid-item><grid-item id="deVdMCD">
+        <item-head id="DymrrGc">
+          <img id="IjfgQYr" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="XRCFVbW">
+          <item-title id="ZohqRZL" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="LKxwjRT">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="no-export" onclick="deleteItem('deVdMCD')">X</button>
+      </grid-item><grid-item id="ejtnQEG">
+        <item-head id="mKmRdhO">
+          <img id="DLFjhfC" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="knEyXPS">
+          <item-title id="RoArIGO" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="gaBXCih">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="no-export" onclick="deleteItem('ejtnQEG')">X</button>
+      </grid-item><grid-item id="VHgtGxN">
+        <item-head id="rKJLpbk">
+          <img id="wellrfk" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="CKnfHNh">
+          <item-title id="oTSrBxg" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="tqDcGuD">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="no-export" onclick="deleteItem('VHgtGxN')">X</button>
+      </grid-item><grid-item id="TQbBLIr">
+        <item-head id="wwfHDLL">
+          <img id="zMqkcwy" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="QehYFWb">
+          <item-title id="hBSoOWo" contenteditable="true">Tyropitakia</item-title>
+          <item-desc id="MAXIjYh">You can now create and curate Playlists in your library!</item-desc>
+        </item-body>
+        <button class="no-export" onclick="deleteItem('TQbBLIr')">X</button>
+      </grid-item><button id="nrrItYN" class="no-export" style="background:#f1f1f1;" onclick="_addItem('VgxqtoL', 'nrrItYN')">
+						<img id="server-addItem" src="../global/file/add.svg">
+					</button>
+        </grid-box>
+      </grid-container>
+    
+      </div>
+      <script id="GThgoSR" data-type="js">
+      // Add or update JS here...
+      </script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>

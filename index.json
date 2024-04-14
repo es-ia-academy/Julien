@@ -104,7 +104,7 @@ grid-box#HACBqKf grid-item {
   box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
   border-radius: 10px;
   overflow: hidden;
-  background: #263238;
+  background: #21292d;
 }
 
 grid-box#HACBqKf item-body {
@@ -126,7 +126,7 @@ grid-box#HACBqKf grid-desc {
 grid-box#HACBqKf item-title {
   display: grid;
   font-size: 1rem;
-  color:white;
+  color: white;
 }
 
 grid-box#HACBqKf item-desc {

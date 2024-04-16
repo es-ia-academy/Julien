@@ -108,7 +108,7 @@ grid-box#HACBqKf grid-item {
 }
 
 grid-box#HACBqKf item-body {
-  padding: 15px;
+  padding: 125px;
   display: grid;
   gap: 10px;
 }

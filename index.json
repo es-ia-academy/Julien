@@ -161,6 +161,7 @@ grid-box#PCnjXcr {
   height: 100%;
   padding: 20px;
   place-content: center start;
+  color:white;
 }
 
 bg-color#mUleQVe {

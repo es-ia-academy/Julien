@@ -250,6 +250,24 @@
           <item-desc id="QNkphyA" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
         </item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('tEDEXAh')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="pDxxhqw">
+        <item-head id="SbXlsii">
+          <img id="TXfqvTE" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/frites_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="ZEYJGby">
+          <item-title id="kxgfCzi" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="ixDjjdc" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('pDxxhqw')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="AfGoXwG">
+        <item-head id="RpuUrTp">
+          <img id="xKCFVPk" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="KItBJGr">
+          <item-title id="pWEvVNw" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="zzSiZhA" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('AfGoXwG')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="PVrqhEG" class="no-export grid-add-item" onclick="itemNew('tSRQXTx','PVrqhEG')">
 						<img id="server-addItem" src="../global/file/add.svg">
 					</button>

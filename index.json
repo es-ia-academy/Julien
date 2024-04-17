@@ -221,7 +221,7 @@ grid-box#PCnjXcr item-head img {
     grid-template-columns: 1fr 1fr;
   }
 }
-</style><div id="EaFIpNn" data-type="html"><!--Add or update HTML here...--><grid-container id="PnHSgau"><grid-bg id="wXScIpV"><bg-color id="mUleQVe"></bg-color></grid-bg><grid-box id="PCnjXcr"><grid-head id="egRYlVa"><grid-title id="VahNIzB" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="SdhpFRA" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="crYlMyk">
+</style><div id="EaFIpNn" data-type="html"><!--Add or update HTML here...--><grid-container id="PnHSgau"><grid-bg id="wXScIpV"><bg-color id="mUleQVe"></bg-color></grid-bg><grid-box id="PCnjXcr"><grid-head id="egRYlVa"><grid-title id="VahNIzB" contenteditable="true">Entradas</grid-title><grid-desc id="SdhpFRA" contenteditable="true">tapas para picar con el aperitivo</grid-desc></grid-head><grid-item id="crYlMyk">
         <item-head id="iHDSYRm">
           <img id="xYwygwK" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/1.webp" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>

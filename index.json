@@ -161,7 +161,7 @@ grid-box#PCnjXcr {
   height: 100%;
   padding: 20px;
   place-content: center start;
-  color:white;
+  color: white;
 }
 
 bg-color#mUleQVe {
@@ -176,7 +176,7 @@ grid-box#PCnjXcr grid-item {
   box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
   border-radius: 10px;
   overflow: hidden;
-  background: white;
+  background: #21292d;
 }
 
 grid-box#PCnjXcr item-body {

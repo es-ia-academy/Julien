@@ -232,15 +232,42 @@
             <grid-title id="wAhkTAz" contenteditable="true">Entrées</grid-title>
             <grid-desc id="cAtlzKE" contenteditable="true">Grid description</grid-desc>
           </grid-head>
-          <grid-item id="TXVciSm">
-        <item-head id="WXXCjeY">
-          <img id="UuChCcV" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <grid-item id="jmhjXue">
+        <item-head id="HYaWatm">
+          <img id="JteHhCv" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/tiropitakya.webp" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="eruKOvD">
-          <item-title id="FFsrOga" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="sTFyxCU" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        <item-body id="lfDQNDT">
+          <item-title id="CnChYTw" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="tTfAfeD" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
         </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('TXVciSm')"><img src="./assets/svg/icons/delete.svg"></button>
+        <button class="no-export grid-delete-item" onclick="deleteItem('jmhjXue')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="tEDEXAh">
+        <item-head id="nriVxlY">
+          <img id="YjGiKLb" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="ycJCTzC">
+          <item-title id="QZeMWBQ" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="QNkphyA" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('tEDEXAh')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="gTJHukC">
+        <item-head id="cMnVUEa">
+          <img id="NZFHRWr" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/atherina.webp" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="NWwnmTL">
+          <item-title id="FSOWlkn" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="iSKaozq" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('gTJHukC')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="bmavdlX">
+        <item-head id="gDmJpZS">
+          <img id="vnmWHjb" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/bol-d-olives-de-kalamata_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="jXtvrRl">
+          <item-title id="ETovZmK" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="etrcUSW" contenteditable="true">Lorem ipsum dolor sit amet consectur</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('bmavdlX')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="PVrqhEG" class="no-export grid-add-item" onclick="itemNew('tSRQXTx','PVrqhEG')">
 						<img id="server-addItem" src="../global/file/add.svg">
 					</button>

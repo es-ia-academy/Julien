@@ -75,13 +75,13 @@ grid-box#PCnjXcr item-head img {
 </style><div id="EaFIpNn" data-type="html"><!--Add or update HTML here...--><grid-container id="PnHSgau"><grid-bg id="wXScIpV"><bg-color id="mUleQVe"></bg-color></grid-bg><grid-box id="PCnjXcr"><grid-head id="egRYlVa"><grid-title id="VahNIzB" contenteditable="true">Entradas</grid-title><grid-desc id="SdhpFRA" contenteditable="true">tapas para picar con el aperitivo</grid-desc></grid-head><grid-item id="crYlMyk"><item-head id="iHDSYRm"><img id="xYwygwK" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/1.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="oJJNjmr"><item-title id="GqXezTe" contenteditable="true">Lorem ipsum</item-title><item-desc id="Iknphzn" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('crYlMyk')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="utYgFWK"><item-head id="VTXuWSC"><img id="LIcXhoH" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/10_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="Vwemroi"><item-title id="YPfzDuP" contenteditable="true">Lorem ipsum</item-title><item-desc id="PGThCNg" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('utYgFWK')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="TvZwgrZ"><item-head id="LUiVHuu"><img id="rCZPeQI" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/11_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="MzfUqOy"><item-title id="fjBjVmS" contenteditable="true">Lorem ipsum</item-title><item-desc id="HvxFgPZ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('TvZwgrZ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="ZQNXjyb"><item-head id="BgyTQhL"><img id="zOVDovF" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/2_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="ZjtflWT"><item-title id="ZFLKcfi" contenteditable="true">Lorem ipsum</item-title><item-desc id="DshIAIt" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('ZQNXjyb')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="HVYsJjw"><item-head id="OMaAPKr"><img id="SwmndUl" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/3_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="RgkzLYO"><item-title id="vzBAzMv" contenteditable="true">Lorem ipsum</item-title><item-desc id="IbQqmST" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('HVYsJjw')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="wvQCjKN"><item-head id="AfUBQlp"><img id="WacnmsX" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/4.webp" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="wbBVntR"><item-title id="UlkdgQR" contenteditable="true">Lorem ipsum</item-title><item-desc id="fZkKWcj" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('wvQCjKN')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="RvItvZO"><item-head id="YklaqCv"><img id="sLBMyRd" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/5_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="hxZtFZy"><item-title id="wiuUCOp" contenteditable="true">Lorem ipsum</item-title><item-desc id="kiXZRIF" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('RvItvZO')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="wCPRqAd"><item-head id="FevApeB"><img id="NFgVnuL" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/6_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="gKDIwOM"><item-title id="aVPfBvD" contenteditable="true">Lorem ipsum</item-title><item-desc id="nAnZbUt" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('wCPRqAd')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="GbSKyqJ"><item-head id="EceTQah"><img id="FzuTjFy" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/7_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="dQmPzGA"><item-title id="nJjliFL" contenteditable="true">Lorem ipsum</item-title><item-desc id="ZDenOxC" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('GbSKyqJ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="MfyNIvF"><item-head id="iJbLIDa"><img id="iVoQjmW" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/8_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="zQVPObD"><item-title id="DPaakPS" contenteditable="true">Lorem ipsum</item-title><item-desc id="TkZVvig" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('MfyNIvF')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="MstJEsC"><item-head id="RESZMAP"><img id="gcyvyQd" src="https://raw.githubusercontent.com/es-ia-academy/Julien/main/media/images/9_200x200.jpeg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="IYgXfjo"><item-title id="mXWokUQ" contenteditable="true">Lorem ipsum</item-title><item-desc id="sAJCeJi" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('MstJEsC')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="feIFyhM" class="no-export grid-add-item" onclick="itemNew('PCnjXcr','feIFyhM')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="UbQFjEl" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-  <section id="EOWytOk" data-type="section">
-      <style id="ilLzoqo" type="text/css" data-type="css">/* Add or update CSS here... */
-grid-container#ajBvJiX {
+  <section id="YpYtKID" data-type="section">
+      <style id="YYjzooi" type="text/css" data-type="css">/* Add or update CSS here... */
+grid-container#CPMAviE {
   position: relative;
 }
 
-grid-box#dPcrsHd {
+grid-box#jfduFqm {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
   grid-auto-rows: auto;
@@ -90,51 +90,52 @@ grid-box#dPcrsHd {
   height: 100%;
   padding: 20px;
   place-content: center;
+  color white;
 }
 
-bg-color#gsoPwgs {
-  background: #c7c7c7;
+bg-color#gRLCjuY {
+  background: inherit;
   position: absolute;
   width: 100%;
   height: 100%;
   z-index: -1;
 }
 
-grid-box#dPcrsHd grid-item {
+grid-box#jfduFqm grid-item {
   box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
   border-radius: 10px;
   overflow: hidden;
-  background: white;
+  background: #21292d;
 }
 
-grid-box#dPcrsHd item-body {
+grid-box#jfduFqm item-body {
   padding: 15px;
   display: grid;
   gap: 10px;
 }
 
-grid-box#dPcrsHd grid-title {
+grid-box#jfduFqm grid-title {
   font-size: 1.5rem;
 }
 
-grid-box#dPcrsHd grid-desc {
+grid-box#jfduFqm grid-desc {
   font-size: 12px;
   color: #929292;
 }
 
-grid-box#dPcrsHd item-desc {
+grid-box#jfduFqm item-desc {
   display: grid;
   font-size: 12px;
   color: #929292;
 }
 
-grid-head#IIucXUS {
+grid-head#kvsYDtT {
   grid-column: 1 / -1;
   display: grid;
   margin-left: 15px;
 }
 
-grid-box#dPcrsHd item-head img {
+grid-box#jfduFqm item-head img {
   background-color: #f1f1f1;
   height: 200px;
   width: 100%;
@@ -142,7 +143,7 @@ grid-box#dPcrsHd item-head img {
 }
 
 @media screen and (max-width: 640px) {
-  grid-box#dPcrsHd {
+  grid-box#jfduFqm {
     display: grid;
     gap: 5px;
     padding: 5px;
@@ -150,35 +151,53 @@ grid-box#dPcrsHd item-head img {
   }
 }
 </style>
-      <div id="jFtLjFy" data-type="html">
+      <div id="sCgNyAy" data-type="html">
       <!--Add or update HTML here...-->
       
-      <grid-container id="EBgRAtr">
-        <grid-bg id="qrGUBeL">
-          <bg-color id="gsoPwgs"></bg-color>
+      <grid-container id="ZZTVKGR">
+        <grid-bg id="rLxZrCF">
+          <bg-color id="gRLCjuY"></bg-color>
         </grid-bg>
-        <grid-box id="dPcrsHd">
-          <grid-head id="IIucXUS">
-            <grid-title id="JpgBkvm" contenteditable="true">Lorem ipsum</grid-title>
-            <grid-desc id="LZEZhoG" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+        <grid-box id="jfduFqm">
+          <grid-head id="kvsYDtT">
+            <grid-title id="GvyOTgl" contenteditable="true">Lorem ipsum</grid-title>
+            <grid-desc id="YyveDLl" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
           </grid-head>
-          <grid-item id="MeOWMqe">
-        <item-head id="pvBpxpG">
-          <img id="hOfqIfk" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <grid-item id="DKvxhiH">
+        <item-head id="WJIErNq">
+          <img id="zRNGsas" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="GSENSIm">
-          <item-title id="HvPzYUD" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="Rjwvwuf" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        <item-body id="POHueBH">
+          <item-title id="FKUBUwu" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="DoXKRuk" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('MeOWMqe')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="ocNqAcR" class="no-export grid-add-item" onclick="itemNew('dPcrsHd','ocNqAcR')">
+        <button class="no-export grid-delete-item" onclick="deleteItem('DKvxhiH')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="rfyriWW">
+        <item-head id="MQeICbs">
+          <img id="UKeZNqB" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="wvOHwby">
+          <item-title id="GXEyLoz" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="Ajfxhrd" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('rfyriWW')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="tcGEelB">
+        <item-head id="RVzIVKA">
+          <img id="uMasEci" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="qRXvxaE">
+          <item-title id="svqmHgf" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="zzRqjGH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('tcGEelB')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="LOZdThL" class="no-export grid-add-item" onclick="itemNew('jfduFqm','LOZdThL')">
 						<img id="server-addItem" src="../global/file/add.svg">
 					</button>
         </grid-box>
       </grid-container>
     
       </div>
-      <script id="redMjCg" data-type="js">
+      <script id="yJnaGKW" data-type="js">
       // Add or update JS here...
       </script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>

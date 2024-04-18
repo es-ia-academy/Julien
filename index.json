@@ -16,7 +16,7 @@ grid-box#PCnjXcr {
 }
 
 bg-color#mUleQVe {
-  background: none;
+  background: inherit;
   position: absolute;
   width: 100%;
   height: 100%;

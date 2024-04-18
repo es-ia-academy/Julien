@@ -200,6 +200,15 @@ grid-box#PCnjXcr item-head img {
           <item-desc id="jrZwrlI" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('lzSUqds')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="rVLZUhq">
+        <item-head id="xUXTyrc">
+          <img id="pzLccMe" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="fyRplsF">
+          <item-title id="BKvXysG" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="jXudPHc" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('rVLZUhq')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="akAkBcD" class="no-export grid-add-item" onclick="itemNew('aCGjwbS','akAkBcD')">
 						<img id="server-addItem" src="../global/file/add.svg">
 					</button>

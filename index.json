@@ -1,77 +1,81 @@
-<section id="JQGjWUd" data-type="section"><style id="zRBwyoF" type="text/css" data-type="css">
-      /* Add or update CSS here... */
-      
-  grid-container#iygUxqc {
-    position: relative;
-  }
-  grid-box#aCGjwbS{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    place-content:center;
-  }
-  bg-color#ZnxLuKK{
-    background:inherit;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-  grid-box#aCGjwbS grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:#21292d;
-  }
-  grid-box#aCGjwbS item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
+<section id="JQGjWUd" data-type="section"><style id="zRBwyoF" type="text/css" data-type="css">/* Add or update CSS here... */
+grid-container#iygUxqc {
+  position: relative;
+}
 
-  grid-box#aCGjwbS grid-title {
-    font-size:1.5rem;
-    color:white;
-  }
+grid-box#aCGjwbS {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-auto-rows: auto;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  place-content: center;
+}
 
-  grid-box#aCGjwbS grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+bg-color#ZnxLuKK {
+  background: inherit;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
 
-  grid-box#aCGjwbS item-title {
-    color: white;
-  }
+grid-box#aCGjwbS grid-item {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #21292d;
+}
 
-  grid-box#aCGjwbS item-desc {
+grid-box#aCGjwbS item-body {
+  padding: 15px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#aCGjwbS grid-title {
+  font-size: 1.5rem;
+  color: white;
+}
+
+grid-box#aCGjwbS grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#aCGjwbS item-title {
+  color: white;
+}
+
+grid-box#aCGjwbS item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-head#HdAthSe {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#aCGjwbS item-head img {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 640px) {
+  grid-box#aCGjwbS {
     display: grid;
-    font-size: 12px;
-    color: #929292;
+    gap: 5px;
+    padding: 5px;
+    grid-template-columns: 1fr 1fr;
   }
-  grid-head#HdAthSe{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#aCGjwbS item-head img{
-    background-color:black;
-    height:200px;
-    width:100%;
-    object-fit:cover;
-  }
-  @media screen and (max-width: 640px){
-    grid-box#aCGjwbS {
-        display: grid;
-        gap:5px;
-        padding:5px;
-        grid-template-columns: 1fr 1fr;
-    }
-  }
-  
-      </style><div id="oczohCX" data-type="html"><!--Add or update HTML here...--><grid-container id="yMtRveP"><grid-bg id="kEWRknW"><bg-color id="ZnxLuKK" style="background-color: rgb(255, 255, 255);"></bg-color></grid-bg><grid-box id="aCGjwbS"><grid-head id="HdAthSe"><grid-title id="Evjiktc" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</grid-title><grid-desc id="haynRbh" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="AOHPrKx" style="background-color: rgb(230, 230, 230);"><item-head id="HhFnZAz"><img id="xHJfdoP" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="lkpEDaU"><item-title id="WXRXkxZ" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="KqvbIzH" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('AOHPrKx')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="zQDvFAr" style="background-color: rgb(230, 230, 230);"><item-head id="oAwIgBF"><img id="RkzsZMO" src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="TgHcUZS"><item-title id="pWptDCR" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="FikoIkn" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('zQDvFAr')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="yhWoiIc" style="background-color: rgb(230, 230, 230);"><item-head id="QtSaahC"><img id="fZmQYJb" src="https://images.unsplash.com/photo-1530521954074-e64f6810b32d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="vVaFibx"><item-title id="rouEAeK" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="hBwERil" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('yhWoiIc')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="lzSUqds" style="background-color: rgb(230, 230, 230);"><item-head id="jFKTjtp"><img id="IhcukQj" src="https://images.unsplash.com/photo-1522509585149-c9cd39d1ff08?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzOHx8dHJhdmVsfGVufDB8MHx8fDE3MTM0MzM0NTB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="QqHYbae"><item-title id="zvEJBLK" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="jrZwrlI" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('lzSUqds')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="akAkBcD" class="no-export grid-add-item" onclick="itemNew('aCGjwbS','akAkBcD')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="qRxUdqo" data-type="js">
+}
+</style><div id="oczohCX" data-type="html"><!--Add or update HTML here...--><grid-container id="yMtRveP"><grid-bg id="kEWRknW"><bg-color id="ZnxLuKK" style="background-color: rgb(255, 255, 255);"></bg-color></grid-bg><grid-box id="aCGjwbS"><grid-head id="HdAthSe"><grid-title id="Evjiktc" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</grid-title><grid-desc id="haynRbh" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="AOHPrKx" style="background-color: rgb(230, 230, 230);"><item-head id="HhFnZAz"><img id="xHJfdoP" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="lkpEDaU"><item-title id="WXRXkxZ" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="KqvbIzH" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('AOHPrKx')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="zQDvFAr" style="background-color: rgb(230, 230, 230);"><item-head id="oAwIgBF"><img id="RkzsZMO" src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="TgHcUZS"><item-title id="pWptDCR" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="FikoIkn" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('zQDvFAr')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="yhWoiIc" style="background-color: rgb(230, 230, 230);"><item-head id="QtSaahC"><img id="fZmQYJb" src="https://images.unsplash.com/photo-1530521954074-e64f6810b32d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHx0cmF2ZWx8ZW58MHwwfHx8MTcxMzQzMzQyN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="vVaFibx"><item-title id="rouEAeK" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="hBwERil" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('yhWoiIc')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="lzSUqds" style="background-color: rgb(230, 230, 230);"><item-head id="jFKTjtp"><img id="IhcukQj" src="https://images.unsplash.com/photo-1522509585149-c9cd39d1ff08?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzOHx8dHJhdmVsfGVufDB8MHx8fDE3MTM0MzM0NTB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="QqHYbae"><item-title id="zvEJBLK" contenteditable="true" style="color: rgb(0, 0, 0);">Lorem ipsum</item-title><item-desc id="jrZwrlI" contenteditable="true" style="color: rgb(128, 128, 128);">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('lzSUqds')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="akAkBcD" class="no-export grid-add-item" onclick="itemNew('aCGjwbS','akAkBcD')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><script id="qRxUdqo" data-type="js">
       // Add or update JS here...
       </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

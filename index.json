@@ -138,5 +138,5 @@
       <script id="qphUjlZ" data-type="js">
       // Add or update JS here...
       </script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: hidden;"><img src="../global/file/edit-section.svg"></button>
   </section>

@@ -70,20 +70,23 @@
     display: grid;
   }
   }</style>
-      <style id="OJWVVlZ" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#utmzKdh{
+      <style id="OJWVVlZ" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
+  grid-head#utmzKdh {
     grid-column: 1 / -1;
     display: grid;
-    place-content:center;
-    text-align:center;
+    place-content: center;
+    text-align: center;
   }
+
   grid-box#RTYvNJg {
-      display: grid;
-      gap:5px;
-      padding:0;
-      grid-template-columns: 1fr 1fr;
+    background: red;
+    display: grid;
+    gap: 5px;
+    padding: 0;
+    grid-template-columns: 1fr 1fr;
   }
-  }</style>
+}
+</style>
       
       <!--HTML-->
       <div id="jazbQEs" data-type="html">

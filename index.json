@@ -1,70 +1,76 @@
 <section id="HFuCePo" data-type="section">
       
       <!--CSS-->
-      <style id="zJmALVP" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#mDxBqpe {
-    position: relative;
-  }
-  grid-box#RTYvNJg{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    place-content:center;
-  }
-  bg-color#xMaODpI{
-    background:inherit;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
-  grid-box#RTYvNJg grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:#21292d;
-  }
-  grid-box#RTYvNJg item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
+      <style id="zJmALVP" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#mDxBqpe {
+  position: relative;
+}
 
-  grid-box#RTYvNJg grid-title {
-    font-size:1.5rem;
-    color:white;
-  }
+grid-box#RTYvNJg {
+    background:blue;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-auto-rows: auto;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  place-content: center;
+}
 
-  grid-box#RTYvNJg grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+bg-color#xMaODpI {
+  background: inherit;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
 
-  grid-box#RTYvNJg item-title {
-    color: white;
-  }
+grid-box#RTYvNJg grid-item {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #21292d;
+}
 
-  grid-box#RTYvNJg item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-  }
-  grid-head#utmzKdh{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#RTYvNJg item-head img{
-    background-color:black;
-    height:200px;
-    width:100%;
-    object-fit:cover;
-  }
-  </style>
+grid-box#RTYvNJg item-body {
+  padding: 15px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#RTYvNJg grid-title {
+  font-size: 1.5rem;
+  color: white;
+}
+
+grid-box#RTYvNJg grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#RTYvNJg item-title {
+  color: white;
+}
+
+grid-box#RTYvNJg item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-head#utmzKdh {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#RTYvNJg item-head img {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+</style>
       <style id="JBrVCol" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px) {
   grid-box#RTYvNJg {
     background: yellow;

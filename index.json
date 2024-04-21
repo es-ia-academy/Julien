@@ -161,17 +161,19 @@ grid-box#pPaMSIA item-head img {
   grid-box#pPaMSIA {
     display: grid;
   }
-  }</style><style id="KEQtkok" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#axqSpPS{
+  }</style><style id="KEQtkok" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
+  grid-head#axqSpPS {
     grid-column: 1 / -1;
     display: grid;
-    place-content:center;
-    text-align:center;
+    place-content: center;
+    text-align: center;
   }
+
   grid-box#pPaMSIA {
-      display: grid;
-      gap:5px;
-      padding:0;
-      grid-template-columns: 1fr 1fr;
+    display: grid;
+    gap: 5px;
+    padding: 5px;
+    grid-template-columns: 1fr 1fr;
   }
-  }</style><!--HTML--><div id="DtKJNxw" data-type="html"><grid-container id="TWKzfEt"><grid-bg id="GiefLxW"><bg-color id="lOUTGYL"></bg-color></grid-bg><grid-box id="pPaMSIA"><grid-head id="axqSpPS"><grid-title id="ZEEZTQG" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="ogGIUbs" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="YukVkak"><item-head id="TPXoMCZ"><img id="aioMWhq" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="wrkfwUw"><item-title id="olhSLBP" contenteditable="true">Lorem ipsum</item-title><item-desc id="ETsVzym" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('YukVkak')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="gkJVORU" class="no-export grid-add-item" onclick="itemNew('pPaMSIA','gkJVORU')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="iOpWTRv" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+}
+</style><!--HTML--><div id="DtKJNxw" data-type="html"><grid-container id="TWKzfEt"><grid-bg id="GiefLxW"><bg-color id="lOUTGYL"></bg-color></grid-bg><grid-box id="pPaMSIA"><grid-head id="axqSpPS"><grid-title id="ZEEZTQG" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="ogGIUbs" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="YukVkak"><item-head id="TPXoMCZ"><img id="aioMWhq" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="wrkfwUw"><item-title id="olhSLBP" contenteditable="true">Lorem ipsum</item-title><item-desc id="ETsVzym" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('YukVkak')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="gkJVORU" class="no-export grid-add-item" onclick="itemNew('pPaMSIA','gkJVORU')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="iOpWTRv" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

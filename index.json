@@ -65,11 +65,13 @@
     object-fit:cover;
   }
   </style>
-      <style id="JBrVCol" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+      <style id="JBrVCol" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px) {
   grid-box#RTYvNJg {
+    background: yellow;
     display: grid;
   }
-  }</style>
+}
+</style>
       <style id="OJWVVlZ" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
   grid-head#utmzKdh {
     grid-column: 1 / -1;

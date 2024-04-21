@@ -1,7 +1,4 @@
-<section id="PMGmsjn" data-type="section">
-      
-      <!--CSS-->
-      <style id="bEjoNhE" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#EfxlFZS {
+<section id="PMGmsjn" data-type="section"><!--CSS--><style id="bEjoNhE" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#EfxlFZS {
   position: relative;
 }
 
@@ -69,13 +66,47 @@ grid-box#PsQISdJ item-head img {
   width: 100%;
   object-fit: cover;
 }
-</style>
-      <style id="VhtvjQp" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+
+cvcvcv
+cvc
+vc
+vc
+vc
+v
+cv
+cv
+c
+v
+v
+v
+c
+vc
+v
+cv
+c
+vc
+v
+c
+vc
+v
+c
+vc
+v
+cv
+c
+vc
+v
+c
+v
+v
+cv
+c
+v
+ultimo</style><style id="VhtvjQp" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#PsQISdJ {
     display: grid;
   }
-  }</style>
-      <style id="HqfZxyG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
+  }</style><style id="HqfZxyG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
   grid-head#PountyB {
     grid-column: 1 / -1;
     display: grid;
@@ -90,37 +121,4 @@ grid-box#PsQISdJ item-head img {
     grid-template-columns: 1fr 1fr;
   }
 }
-</style>
-      
-      <!--HTML-->
-      <div id="rUIXBPX" data-type="html">
-        <grid-container id="PWPsUlo">
-          <grid-bg id="osQpjWh">
-            <bg-color id="AkQEHvt"></bg-color>
-          </grid-bg>
-          <grid-box id="PsQISdJ">
-            <grid-head id="PountyB">
-              <grid-title id="oDiBMIt" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="ctNZWdJ" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
-            </grid-head>
-            <grid-item id="BcZwvzB">
-        <item-head id="uwsePoh">
-          <img id="QQyACVA" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="ALTRFnX">
-          <item-title id="xwIRbaZ" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="acDJcDu" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('BcZwvzB')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="KciRkka" class="no-export grid-add-item" onclick="itemNew('PsQISdJ','KciRkka')">
-              <img id="server-addItem" src="../global/file/add.svg">
-            </button>
-          </grid-box>
-        </grid-container>
-      </div>
-      
-      <!--JS-->
-      <script id="bfNsjjt" data-type="js"></script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+</style><!--HTML--><div id="rUIXBPX" data-type="html"><grid-container id="PWPsUlo"><grid-bg id="osQpjWh"><bg-color id="AkQEHvt"></bg-color></grid-bg><grid-box id="PsQISdJ"><grid-head id="PountyB"><grid-title id="oDiBMIt" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="ctNZWdJ" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="BcZwvzB"><item-head id="uwsePoh"><img id="QQyACVA" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="ALTRFnX"><item-title id="xwIRbaZ" contenteditable="true">Lorem ipsum</item-title><item-desc id="acDJcDu" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('BcZwvzB')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="KciRkka" class="no-export grid-add-item" onclick="itemNew('PsQISdJ','KciRkka')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="bfNsjjt" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

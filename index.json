@@ -85,7 +85,7 @@
     display: grid;
     gap: 5px;
     padding: 0;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 }
 }

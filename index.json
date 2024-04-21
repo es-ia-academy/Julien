@@ -109,7 +109,7 @@ grid-box#pPaMSIA {
 }
 
 bg-color#lOUTGYL {
-  background: inherit;
+  background: red;
   position: absolute;
   width: 100%;
   height: 100%;

@@ -1,7 +1,4 @@
-<section id="UNsDQiC" data-type="section">
-      
-      <!--CSS-->
-      <style id="iubgIMg" type="text/css" data-type="css" data-size="laptop" data-content="section">
+<section id="UNsDQiC" data-type="section"><!--CSS--><style id="iubgIMg" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#eTAqLaG {
     position: relative;
   }
@@ -64,13 +61,11 @@
     width:100%;
     object-fit:cover;
   }
-  </style>
-      <style id="UMrEnMP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  </style><style id="UMrEnMP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#XexoEyv {
     display: grid;
   }
-  }</style>
-      <style id="tfyiJVr" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
+  }</style><style id="tfyiJVr" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px) {
   grid-head#aouHRcO {
     grid-column: 1 / -1;
     display: grid;
@@ -85,37 +80,4 @@
     grid-template-columns: 1fr 1fr;
   }
 }
-</style>
-      
-      <!--HTML-->
-      <div id="qVyAZdT" data-type="html">
-        <grid-container id="hrLoNAT">
-          <grid-bg id="LEzNcSF">
-            <bg-color id="KUmbAaf"></bg-color>
-          </grid-bg>
-          <grid-box id="XexoEyv">
-            <grid-head id="aouHRcO">
-              <grid-title id="NfmvPLD" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="zylxwKj" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
-            </grid-head>
-            <grid-item id="KWqwZMs">
-        <item-head id="iDBVcGA">
-          <img id="JwMNfvh" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="AsHGScN">
-          <item-title id="BMOhwry" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="ErhGceX" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('KWqwZMs')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="andpCyP" class="no-export grid-add-item" onclick="itemNew('XexoEyv','andpCyP')">
-              <img id="server-addItem" src="../global/file/add.svg">
-            </button>
-          </grid-box>
-        </grid-container>
-      </div>
-      
-      <!--JS-->
-      <script id="fvwYZUq" data-type="js"></script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
-  </section>
+</style><!--HTML--><div id="qVyAZdT" data-type="html"><grid-container id="hrLoNAT"><grid-bg id="LEzNcSF"><bg-color id="KUmbAaf"></bg-color></grid-bg><grid-box id="XexoEyv"><grid-head id="aouHRcO"><grid-title id="NfmvPLD" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="zylxwKj" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="KWqwZMs"><item-head id="iDBVcGA"><img id="JwMNfvh" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="AsHGScN"><item-title id="BMOhwry" contenteditable="true">Lorem ipsum</item-title><item-desc id="ErhGceX" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('KWqwZMs')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="andpCyP" class="no-export grid-add-item" onclick="itemNew('XexoEyv','andpCyP')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="fvwYZUq" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>

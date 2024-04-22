@@ -1,5 +1,128 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style>
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page{
+    display:grid;
+    background:red;
+}</style>
                 <style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){}</style>
                 <style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){}</style>
-                <grid-page id="grid" class="grid-page" data-type="body"></grid-page>
+                <grid-page id="grid" class="grid-page" data-type="body">
+  <section id="kNbxTYd" data-type="section">
+      
+      <!--CSS-->
+      <style id="uVqkEGV" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#gkgunlK {
+    position: relative;
+  }
+  grid-box#JPoIVtn{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    place-content:center;
+  }
+  bg-color#ehkKhFQ{
+    background:inherit;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#JPoIVtn grid-item {
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    overflow: hidden;
+    background:#21292d;
+  }
+  grid-box#JPoIVtn item-body {
+    padding: 15px;
+    display: grid;
+    gap: 10px;
+  }
+
+  grid-box#JPoIVtn grid-title {
+    font-size:1.5rem;
+    color:white;
+  }
+
+  grid-box#JPoIVtn grid-desc {
+    font-size: 12px;
+    color: #929292;
+  }
+
+  grid-box#JPoIVtn item-title {
+    color: white;
+  }
+
+  grid-box#JPoIVtn item-desc {
+    display: grid;
+    font-size: 12px;
+    color: #929292;
+  }
+  grid-head#xmUqxch{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
+  }
+  grid-box#JPoIVtn item-head img{
+    background-color:black;
+    height:200px;
+    width:100%;
+    object-fit:cover;
+  }
+  </style>
+      <style id="pAXVcCJ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#JPoIVtn {
+    display: grid;
+  }
+  }</style>
+      <style id="lXYVnlu" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#xmUqxch{
+    grid-column: 1 / -1;
+    display: grid;
+    place-content:center;
+    text-align:center;
+  }
+  grid-box#JPoIVtn {
+      display: grid;
+      gap:5px;
+      padding:0;
+      grid-template-columns: 1fr 1fr;
+  }
+  }</style>
+      
+      <!--HTML-->
+      <div id="yjpSPoh" data-type="html">
+        <grid-container id="XEPiIGu">
+          <grid-bg id="DvItArc">
+            <bg-color id="ehkKhFQ"></bg-color>
+          </grid-bg>
+          <grid-box id="JPoIVtn">
+            <grid-head id="xmUqxch">
+              <grid-title id="fyMrmcd" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-desc id="BWcqbXg" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+            </grid-head>
+            <grid-item id="apfwIjA">
+        <item-head id="qSAlwxS">
+          <img id="ppiZegj" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="neYEkjw">
+          <item-title id="sGtSyua" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="kohbUhx" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        </item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('apfwIjA')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="SpOzquI" class="no-export grid-add-item" onclick="itemNew('JPoIVtn','SpOzquI')">
+              <img id="server-addItem" src="../global/file/add.svg">
+            </button>
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="owEoSju" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+  </section>
+  </grid-page>
             <div class="overlay" id="overlay" style="display: none;"></div>

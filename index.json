@@ -1,17 +1,15 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">body{
-    background:red;
-}</style>
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style>
                 <style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){}</style>
                 <style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){}</style>
                 <grid-page id="grid" class="grid-page" data-type="body">
-  <section id="GRLLasz" data-type="section">
+  <section id="pfQrdDV" data-type="section">
       
       <!--CSS-->
-      <style id="bsiUXvO" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#bCxgvYn {
+      <style id="HQiyBdL" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#JZxKFVZ {
     position: relative;
   }
-  grid-box#jPWKmkE{
+  grid-box#KIJgAuZ{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
     grid-auto-rows: auto;
@@ -21,69 +19,69 @@
     padding: 20px;
     place-content:center;
   }
-  bg-color#vVZyIog{
+  bg-color#XxVWRUV{
     background:inherit;
     position: absolute;
     width: 100%;
     height: 100%;
     z-index: -1;
   }
-  grid-box#jPWKmkE grid-item {
+  grid-box#KIJgAuZ grid-item {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
     border-radius: 10px;
     overflow: hidden;
     background:#21292d;
   }
-  grid-box#jPWKmkE item-body {
+  grid-box#KIJgAuZ item-body {
     padding: 15px;
     display: grid;
     gap: 10px;
   }
 
-  grid-box#jPWKmkE grid-title {
+  grid-box#KIJgAuZ grid-title {
     font-size:1.5rem;
     color:white;
   }
 
-  grid-box#jPWKmkE grid-desc {
+  grid-box#KIJgAuZ grid-desc {
     font-size: 12px;
     color: #929292;
   }
 
-  grid-box#jPWKmkE item-title {
+  grid-box#KIJgAuZ item-title {
     color: white;
   }
 
-  grid-box#jPWKmkE item-desc {
+  grid-box#KIJgAuZ item-desc {
     display: grid;
     font-size: 12px;
     color: #929292;
   }
-  grid-head#xNcMeQZ{
+  grid-head#spraEAs{
     grid-column: 1 / -1;
     display: grid;
     margin-left: 15px;
   }
-  grid-box#jPWKmkE item-head img{
+  grid-box#KIJgAuZ item-head img{
     background-color:black;
     height:200px;
     width:100%;
     object-fit:cover;
   }
   </style>
-      <style id="GwLxwrT" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-box#jPWKmkE {
+      <style id="ZOLDwqP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#KIJgAuZ {
     display: grid;
   }
   }</style>
-      <style id="ycXnLZj" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#xNcMeQZ{
+      <style id="pqRqRVG" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#spraEAs{
     grid-column: 1 / -1;
     display: grid;
     place-content:center;
     text-align:center;
   }
-  grid-box#jPWKmkE {
+  grid-box#KIJgAuZ {
       display: grid;
       gap:5px;
       padding:0;
@@ -92,26 +90,26 @@
   }</style>
       
       <!--HTML-->
-      <div id="jNSfIWy" data-type="html">
-        <grid-container id="ePWVATr">
-          <grid-bg id="KFxTHjR">
-            <bg-color id="vVZyIog"></bg-color>
+      <div id="sQObJCX" data-type="html">
+        <grid-container id="CDtWtCk">
+          <grid-bg id="PguvycK">
+            <bg-color id="XxVWRUV"></bg-color>
           </grid-bg>
-          <grid-box id="jPWKmkE">
-            <grid-head id="xNcMeQZ">
-              <grid-title id="rpugFmw" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="LplJxdC" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+          <grid-box id="KIJgAuZ">
+            <grid-head id="spraEAs">
+              <grid-title id="xZovINw" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-desc id="puemfBf" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
-            <grid-item id="BtkOFeo">
-        <item-head id="jEKZzhp">
-          <img id="WfbBhBW" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+            <grid-item id="JMjwbEE">
+        <item-head id="BqAJMeW">
+          <img id="rEhZgAb" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="NynKNLD">
-          <item-title id="wRpwrzg" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="hAmtljP" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        <item-body id="FmSXQhD">
+          <item-title id="ikXVgUB" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="vGyydjJ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('BtkOFeo')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="BBYgKll" class="no-export grid-add-item" onclick="itemNew('jPWKmkE','BBYgKll')">
+        <button class="no-export grid-delete-item" onclick="deleteItem('JMjwbEE')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="jqWAdPp" class="no-export grid-add-item" onclick="itemNew('KIJgAuZ','jqWAdPp')">
               <img id="server-addItem" src="../global/file/add.svg">
             </button>
           </grid-box>
@@ -119,7 +117,7 @@
       </div>
       
       <!--JS-->
-      <script id="kzWkXrD" data-type="js"></script>
+      <script id="GkJAOHE" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
   </section>

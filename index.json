@@ -1,4 +1,15 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page {
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">
+                  grid-page { 
+                    width:100%;
+                  } 
+                  body {
+                    background:yellow;
+                    width:100%
+                  }
+                  </style>
+                <style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+                <style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){}</style>
+                <grid-page id="grid" class="grid-page" data-type="body"><style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-page {
   width: 100%;
 }
 
@@ -6,10 +17,7 @@ body {
   background: red;
   width: 100%
 }
-</style>
-                <style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){}</style>
-                <style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){}</style>
-                <grid-page id="grid" class="grid-page" data-type="body"><section id="MQleZDm" data-type="section"><!--CSS--><style id="ErZXxxE" type="text/css" data-type="css" data-size="laptop" data-content="section">
+</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px){}</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px){}</style><grid-page id="grid" class="grid-page" data-type="body"><section id="MQleZDm" data-type="section"><!--CSS--><style id="ErZXxxE" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#dDjcaYz {
     position: relative;
   }
@@ -89,5 +97,5 @@ body {
       padding:0;
       grid-template-columns: 1fr 1fr;
   }
-  }</style><!--HTML--><div id="TbfSSoH" data-type="html"><grid-container id="OQxPoOx"><grid-bg id="QfGZavF"><bg-color id="XpabOlc"></bg-color></grid-bg><grid-box id="LvEzmsV"><grid-head id="VYTdKzx"><grid-title id="TVcBIIg" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="eGIVNPu" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="qphwgqU"><item-head id="kGNMgbX"><img id="FWQkxOw" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="gYYhPlE"><item-title id="tKbwQPg" contenteditable="true">Lorem ipsum</item-title><item-desc id="BSKQclo" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('qphwgqU')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="LIRUOQI" class="no-export grid-add-item" onclick="itemNew('LvEzmsV','LIRUOQI')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="XKcGPPX" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section></grid-page>
+  }</style><!--HTML--><div id="TbfSSoH" data-type="html"><grid-container id="OQxPoOx"><grid-bg id="QfGZavF"><bg-color id="XpabOlc"></bg-color></grid-bg><grid-box id="LvEzmsV"><grid-head id="VYTdKzx"><grid-title id="TVcBIIg" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="eGIVNPu" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="qphwgqU"><item-head id="kGNMgbX"><img id="FWQkxOw" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="gYYhPlE"><item-title id="tKbwQPg" contenteditable="true">Lorem ipsum</item-title><item-desc id="BSKQclo" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('qphwgqU')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="LIRUOQI" class="no-export grid-add-item" onclick="itemNew('LvEzmsV','LIRUOQI')"><img id="server-addItem" src="../global/file/add.svg"></button></grid-box></grid-container></div><!--JS--><script id="XKcGPPX" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section></grid-page><div class="overlay" id="overlay" style="display: none;"></div></grid-page>
             <div class="overlay" id="overlay" style="display: none;"></div>
